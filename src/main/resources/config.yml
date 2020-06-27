@@ -1,0 +1,7 @@
+messages:
+  prefix: '&4UHC &8>>&7 '
+
+  args: '&cWrong Arguments! /siphon <enable/disable/toggle>'
+
+  enabled: '&aSiphon &7has been &aenabled&7!'
+  disabled: '&cSiphon &7has been &cdisabled&7!'

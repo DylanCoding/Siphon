@@ -1,0 +1,11 @@
+name: Siphon
+version: ${project.version}
+main: me.dylan.siphon.Siphon
+api-version: 1.13
+author: Interuptings
+description: Siphon UHC Scenario
+
+commands:
+  siphon:
+    permission: siphon.manage
+    description: Allows you to toggle siphon
